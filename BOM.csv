@@ -1,0 +1,10 @@
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,ID,Designator,Footprint,Manufacturer,Supplier,Supplier Part
+220nF,Part,100,0.0086,0.86,https://www.lcsc.com/product-detail/C21120.html?s_z=n_q_C21120&globalKeyword=C21120,CL10B224KA8NNNC,Grant,,1,C1,C0603,SAMSUNG(三星),LCSC,C21120
+KT-0805Y,Part,50,0.0125,0.625,https://www.lcsc.com/product-detail/C2296.html?s_z=n_q_C2296&globalKeyword=C2296,KT-0805黄灯,Grant,,2,LED1,LED0805-R-RD,KENTO,LCSC,C2296
+47Ω,Part,100,0.0018,0.18,https://www.lcsc.com/product-detail/C23182.html?s_z=n_q_C23182&globalKeyword=C23182,0603WAF470JT5E,Grant,,3,R1,R0603,UNI-ROYAL(厚声),LCSC,C23182
+NT3H2111W0FHKH,Part,3,0.5607,1.6821,https://www.lcsc.com/product-detail/C710403.html?s_z=n_q_C710403&globalKeyword=C710403,NT3H2111W0FHKH,Grant,,4,U1,XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH,NXP(恩智浦),LCSC,C710403
+NFC Business Card PCB,Part,5,0.80,4.00,https://cart.jlcpcb.com/quote?edaOrderUrl=https%3A%2F%2Feasyeda.com%2Forder&electropolishingOnlyNo=no&achieveDate=72,JLCPCB,Grant,$4 coupon applied at checkout.,,,,,,
+Shipping,Shipping,1,8.00,8.00,https://cart.jlcpcb.com/shopcart/cart/,JLCPCB,Grant,,,,,,,
+Shipping (LCSC),Shipping,1,8.02,8.02,,LCSC,Grant,,,,,,,
+Handling fee,Tax or fee,1,3.00,3.00,,LCSC,Grant,,,,,,,
+Total,,,,26.3671,,,,,,,,,,
